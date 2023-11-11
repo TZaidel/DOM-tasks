@@ -1,0 +1,19 @@
+body{
+padding:15px;
+}
+
+.title{
+color: rgb(53, 43, 53) ;
+text-decoration: underline;
+border-bottom: 1px solid rgb(53, 43, 53) ;
+}
+
+.transaction-table {
+  border-collapse: collapse;
+}
+
+.transaction-table th,
+.transaction-table td {
+  padding: 8px;
+  border: 1px solid #2a2a2a;
+}
